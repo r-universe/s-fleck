@@ -1,0 +1,22 @@
+[
+  {
+    "package": "colt",
+    "oncran": true
+  },
+  {
+    "package": "dint",
+    "oncran": true
+  },
+  {
+    "package": "lgr",
+    "oncran": true
+  },
+  {
+    "package": "rotor",
+    "oncran": true
+  },
+  {
+    "package": "testthis",
+    "oncran": true
+  }
+]
