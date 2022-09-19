@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "dint",
+    "oncran": true
+  },
+  {
     "package": "lgr",
     "oncran": true
   },

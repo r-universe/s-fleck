@@ -8,6 +8,11 @@
 	url = https://github.com/s-fleck/colt
 	shallow = true
 	registered = true
+[submodule "dint"]
+	path = dint
+	url = https://github.com/s-fleck/dint
+	shallow = true
+	registered = true
 [submodule "lgr"]
 	path = lgr
 	url = https://github.com/s-fleck/lgr
