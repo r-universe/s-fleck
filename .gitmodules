@@ -13,14 +13,29 @@
 	url = https://github.com/s-fleck/dint
 	shallow = true
 	registered = true
+[submodule "lest"]
+	path = lest
+	url = https://github.com/s-fleck/lest
+	shallow = true
+	registered = true
 [submodule "lgr"]
 	path = lgr
 	url = https://github.com/s-fleck/lgr
 	shallow = true
 	registered = true
+[submodule "lgrExtra"]
+	path = lgrExtra
+	url = https://github.com/s-fleck/lgrextra
+	shallow = true
+	registered = true
 [submodule "rotor"]
 	path = rotor
 	url = https://github.com/s-fleck/rotor
+	shallow = true
+	registered = true
+[submodule "smartmap"]
+	path = smartmap
+	url = https://github.com/s-fleck/smartmap
 	shallow = true
 	registered = true
 [submodule "testthis"]

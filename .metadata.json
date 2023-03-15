@@ -8,11 +8,23 @@
     "oncran": true
   },
   {
+    "package": "lest",
+    "oncran": true
+  },
+  {
     "package": "lgr",
     "oncran": true
   },
   {
+    "package": "lgrExtra",
+    "oncran": true
+  },
+  {
     "package": "rotor",
+    "oncran": true
+  },
+  {
+    "package": "smartmap",
     "oncran": true
   },
   {
