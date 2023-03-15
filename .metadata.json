@@ -1,10 +1,6 @@
 [
   {
-    "package": "colt",
-    "oncran": true
-  },
-  {
-    "package": "dint",
+    "package": "rotor",
     "oncran": true
   },
   {
@@ -12,11 +8,15 @@
     "oncran": true
   },
   {
-    "package": "rotor",
+    "package": "testthis",
     "oncran": true
   },
   {
-    "package": "testthis",
+    "package": "colt",
+    "oncran": true
+  },
+  {
+    "package": "dint",
     "oncran": true
   }
 ]
